@@ -20,7 +20,7 @@ body {
     padding: 1em;
     width: 80%;
 }
-
+/*some dumb comment*/
 .destination-container {
     display: flex;
     flex-flow: wrap;
